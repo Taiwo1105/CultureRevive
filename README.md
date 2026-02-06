@@ -7,6 +7,7 @@ Figma Prototype: https://www.figma.com/proto/sxmEOjqY8P9e9CJWRR5gjN/Untitled?pag
 Demo Video: 
 
  Setup & Environment
+ 
 This project is built using Unity and AR Foundation.
 
 Prerequisites
