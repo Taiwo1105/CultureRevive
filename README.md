@@ -6,7 +6,7 @@ GitHub Repository: https://github.com/Taiwo1105/CultureRevive/tree/main
 
 Figma Prototype: https://www.figma.com/proto/sxmEOjqY8P9e9CJWRR5gjN/Untitled?page-id=0%3A1&node-id=14-22&p=f&viewport=224%2C256%2C0.4&t=TlJJE36wXfVOaX1b-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
 
-Demo Video: 
+Demo Video: https://www.loom.com/share/17062688f3ea4e48ae19713d3010622c
 
  Setup & Environment
  
