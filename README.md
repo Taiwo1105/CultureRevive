@@ -35,6 +35,7 @@ Ensure XR Plug-in Management is enabled in Project Settings for your specific pl
 Reference Image Library: Navigate to Assets/ARResources/ImageLibrary to add or view the artifact trigger images.
 
 Deployment Plan
+
 Alpha Testing (Internal): Deploy to local devices via Unity's Build and Run to test tracking stability and audio latency.
 
 Beta Testing (TestFlight/Google Play Console): Share with a small group of Nigerian youth for UX feedback on cultural accuracy.
