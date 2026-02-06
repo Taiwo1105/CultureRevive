@@ -22,6 +22,7 @@ ARCore XR Plugin (for Android)
 Hardware: An AR-compatible mobile device (Android with ARCore or iOS with ARKit).
 
 Installation Steps
+
 Clone the Repo: 
 git clone https://github.com/Taiwo1105/CultureRevive.git
 
