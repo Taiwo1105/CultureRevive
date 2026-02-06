@@ -1,4 +1,6 @@
- Project Links
+Culture Revive is a mobile Augmented Reality (AR) application designed to reconnect Nigerian youth with their rich cultural heritage. By bridging the gap between ancient history and modern technology, the app allows users to scan physical "Culture Cards" to reveal 3D ancient artifacts, interactive characters in traditional attire, and immersive oral histories.
+
+Project Links
 
 GitHub Repository: https://github.com/Taiwo1105/CultureRevive/tree/main
 
