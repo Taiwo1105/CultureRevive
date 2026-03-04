@@ -41,7 +41,10 @@ Reference Image Library: Navigate to Assets/ARResources/ImageLibrary to add or v
 Download apk from play store or it can be sent to your device for a direct installation to the device
 
 Once installed, run the app and start to scan the trigger images which will be given to you to see the 3d models of ancient arifacts of different cultures/tribes.
+
 App link: https://drive.google.com/file/d/1dEXQOK94sVKRIKeIwUBLFpjU8cqXcN2v/view?usp=sharing 
+
+Folder of images to scan: https://drive.google.com/drive/folders/1cG-arlyJU6L4Jz09SNhCloK39W0ZwIoD?usp=sharing 
 
 Deployment Plan
 
