@@ -52,6 +52,4 @@ Alpha Testing (Internal): Deploy to local devices via Unity's Build and Run to t
 
 Beta Testing (TestFlight/Google Play Console): Share with a small group of Nigerian youth for UX feedback on cultural accuracy.
 
-Production Release: * Android: Release via .aab (Android App Bundle) on Google Play.
-
-Physical Distribution: Print "Culture Cards" as high-quality triggers to be distributed in schools and museums.
+Physical Distribution: Print "Culture Cards" as high-quality triggers to be distributed in schools.
